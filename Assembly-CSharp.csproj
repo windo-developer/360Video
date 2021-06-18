@@ -57,6 +57,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets/Script/Video360Play.cs" />
+    <Compile Include="Assets/Script/CameraController.cs" />
+    <Compile Include="Assets/Script/GazePointer.cs" />
+    <Compile Include="Assets/Script/VideoFrame.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets/Shaders/UI-Default.shader" />
